@@ -41,6 +41,16 @@ O yPatchApplicator é um software "vivo", com isso toda opinião, report de erro
 
 Os erros corrigidos e as melhorias implementadas pela equipe do yPatchApplicator, também serão controladas via Issues e descritas nos Release.
 
+## Código-Fonte
+
+Este repositório não contém o código-fonte do software, que a princípio, permanecerá privado. No entanto, o projeto será mantido aqui no GitHub para:
+
+- Acesso ao histórico de Release Notes;
+
+- Consulta das funcionalidades;
+
+- Registro e acompanhamento de dúvidas, melhorias, problemas, etc., através das Issues.
+
 ## Mantenedor
 
 Cristian Regazzo - cmregazzo@gmail.com
